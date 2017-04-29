@@ -5,5 +5,9 @@
 
 1. [nginx安装，初始化命令](https://github.com/suxiaoxu/ngnix/blob/master/1.install.md "安装")
 2. [tomcat安装，初始化命令](https://github.com/suxiaoxu/ngnix/blob/master/2.tomcat_install.md "tomcat安装")
-3. nginx配置
-4. 域名配置实例1
+3. [nginx配置](https://github.com/suxiaoxu/ngnix/blob/master/3.ngnix-conf.md)
+4. [域名配置实例1](https://github.com/suxiaoxu/ngnix/blob/master/4.domain-conf.md)
+5. [日志配置](https://github.com/suxiaoxu/ngnix/blob/master/5.logqplist-conf.md)
+6. [nginx过滤](https://github.com/suxiaoxu/ngnix/blob/master/6.nginx-filter.md)
+7. [反向代理](https://github.com/suxiaoxu/ngnix/blob/master/convertproxy.md)
+8. [负载均衡](https://github.com/suxiaoxu/ngnix/blob/master/8.fuzaijunheng.md)
