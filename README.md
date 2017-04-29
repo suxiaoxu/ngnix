@@ -5,3 +5,5 @@
 
 1. [nginx安装，初始化命令](https://github.com/suxiaoxu/ngnix/blob/master/1.install.md "安装")
 2. [tomcat安装，初始化命令](https://github.com/suxiaoxu/ngnix/blob/master/2.tomcat_install.md "tomcat安装")
+3. nginx配置
+4. 域名配置实例1
